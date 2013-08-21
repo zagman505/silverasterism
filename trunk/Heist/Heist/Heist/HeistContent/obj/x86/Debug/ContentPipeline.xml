@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>menuitems\0.png</Source>
+      <Name>menuitems\0</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\0.xnb</Output>
+      <Time>2012-09-15T20:35:03.5996093-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuitems\1.png</Source>
+      <Name>menuitems\1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\1.xnb</Output>
+      <Time>2012-09-15T20:38:00.2998046-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuitems\2.png</Source>
+      <Name>menuitems\2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\2.xnb</Output>
+      <Time>2012-09-15T20:38:35.1835937-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuitems\3.png</Source>
+      <Name>menuitems\3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\3.xnb</Output>
+      <Time>2012-09-15T20:38:52.1982421-07:00</Time>
+    </Item>
+    <Item>
+      <Source>menuitems\4.png</Source>
+      <Name>menuitems\4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\4.xnb</Output>
+      <Time>2012-09-15T20:39:12.2958984-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\HeistContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\HeistContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-07-21T13:52:26.649414-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

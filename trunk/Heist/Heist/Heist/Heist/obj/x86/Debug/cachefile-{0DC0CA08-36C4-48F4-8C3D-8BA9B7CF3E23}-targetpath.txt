@@ -1,0 +1,5 @@
+Content\menuitems\0.xnb
+Content\menuitems\1.xnb
+Content\menuitems\2.xnb
+Content\menuitems\3.xnb
+Content\menuitems\4.xnb

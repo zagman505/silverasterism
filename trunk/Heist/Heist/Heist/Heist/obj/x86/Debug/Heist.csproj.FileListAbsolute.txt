@@ -1,0 +1,11 @@
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Heist.exe
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Heist.pdb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\obj\x86\Debug\Heist.exe
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\obj\x86\Debug\Heist.pdb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\0.xnb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\1.xnb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\2.xnb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\3.xnb
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Heist\Heist\Heist\Heist\bin\x86\Debug\Content\menuitems\4.xnb

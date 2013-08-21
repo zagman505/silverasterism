@@ -1,0 +1,3 @@
+C:\Users\Douglas Munroe\Programming\silverasterism\trunk\Break\Break\Break\BreakContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Documents\silverasterism\trunk\Break\Break\Break\BreakContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\BreakContent\obj\x86\Debug\BreakContent.contentprojResolveAssemblyReference.cache

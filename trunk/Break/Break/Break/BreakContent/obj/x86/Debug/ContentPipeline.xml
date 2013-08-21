@@ -1,0 +1,668 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>sprites\gun.png</Source>
+      <Name>sprites\gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\gun.xnb</Output>
+      <Time>2012-08-21T21:46:14.2138671-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\knight_back.png</Source>
+      <Name>sprites\knight_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\knight_back.xnb</Output>
+      <Time>2012-08-21T21:46:14.2558593-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\knight_front.png</Source>
+      <Name>sprites\knight_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\knight_front.xnb</Output>
+      <Time>2012-08-21T21:46:14.0878906-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\knight_sideL.png</Source>
+      <Name>sprites\knight_sideL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\knight_sideL.xnb</Output>
+      <Time>2012-08-21T21:46:14.1621093-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\knight_sideR.png</Source>
+      <Name>sprites\knight_sideR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\knight_sideR.xnb</Output>
+      <Time>2012-08-21T21:46:14.171875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\laser_h.png</Source>
+      <Name>sprites\laser_h</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\laser_h.xnb</Output>
+      <Time>2012-08-21T21:46:13.961914-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\laser_v.png</Source>
+      <Name>sprites\laser_v</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\laser_v.xnb</Output>
+      <Time>2012-08-21T21:46:14.0791015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_back.png</Source>
+      <Name>sprites\player_back</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_back.xnb</Output>
+      <Time>2012-08-21T21:46:13.9365234-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_back_gun.png</Source>
+      <Name>sprites\player_back_gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_back_gun.xnb</Output>
+      <Time>2012-08-21T21:46:14.1933593-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_back_sword.png</Source>
+      <Name>sprites\player_back_sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_back_sword.xnb</Output>
+      <Time>2012-08-21T21:46:14.0615234-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_front_gun.png</Source>
+      <Name>sprites\player_front_gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_front_gun.xnb</Output>
+      <Time>2012-08-21T21:46:13.9511718-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_front_sword1.png</Source>
+      <Name>sprites\player_front_sword1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_front_sword1.xnb</Output>
+      <Time>2012-08-21T21:46:14.1386718-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_front_sword2.png</Source>
+      <Name>sprites\player_front_sword2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_front_sword2.xnb</Output>
+      <Time>2012-08-21T21:46:14.1503906-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_side.png</Source>
+      <Name>sprites\player_side</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_side.xnb</Output>
+      <Time>2012-08-21T21:46:14.1171875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_side_gunL.png</Source>
+      <Name>sprites\player_side_gunL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_side_gunL.xnb</Output>
+      <Time>2012-08-21T21:46:14.1982421-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_side_gunR.png</Source>
+      <Name>sprites\player_side_gunR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_side_gunR.xnb</Output>
+      <Time>2012-08-21T21:46:14.2236328-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_side_swordL.png</Source>
+      <Name>sprites\player_side_swordL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_side_swordL.xnb</Output>
+      <Time>2012-08-21T21:46:14.21875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_side_swordR.png</Source>
+      <Name>sprites\player_side_swordR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_side_swordR.xnb</Output>
+      <Time>2012-08-21T21:46:14.2353515-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_front.png</Source>
+      <Name>sprites\player_front</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_front.xnb</Output>
+      <Time>2012-08-21T21:46:14.1455078-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\player_sideR.png</Source>
+      <Name>sprites\player_sideR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\player_sideR.xnb</Output>
+      <Time>2012-08-21T21:46:14.1875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_B.png</Source>
+      <Name>sprites\wall_B</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_B.xnb</Output>
+      <Time>2012-08-21T21:46:14.2402343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_BL.png</Source>
+      <Name>sprites\wall_BL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_BL.xnb</Output>
+      <Time>2012-08-21T21:46:13.9443359-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_BR.png</Source>
+      <Name>sprites\wall_BR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_BR.xnb</Output>
+      <Time>2012-08-21T21:46:14.0351562-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_L.png</Source>
+      <Name>sprites\wall_L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_L.xnb</Output>
+      <Time>2012-08-21T21:46:13.9296875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_R.png</Source>
+      <Name>sprites\wall_R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_R.xnb</Output>
+      <Time>2012-08-21T21:46:14.008789-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_T.png</Source>
+      <Name>sprites\wall_T</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_T.xnb</Output>
+      <Time>2012-08-21T21:46:14.0253906-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_TL.png</Source>
+      <Name>sprites\wall_TL</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_TL.xnb</Output>
+      <Time>2012-08-21T21:46:14.1044921-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\wall_TR.png</Source>
+      <Name>sprites\wall_TR</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\wall_TR.xnb</Output>
+      <Time>2012-08-21T21:46:14.15625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\floor_tile.png</Source>
+      <Name>sprites\floor_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\floor_tile.xnb</Output>
+      <Time>2012-08-21T21:46:14.2294921-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\lab.jpg</Source>
+      <Name>backgrounds\lab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\lab.xnb</Output>
+      <Time>2012-08-21T21:46:14.7988281-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\pocketwatch.jpg</Source>
+      <Name>backgrounds\pocketwatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\pocketwatch.xnb</Output>
+      <Time>2012-08-21T21:46:14.7929687-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tardis.png</Source>
+      <Name>sprites\tardis</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\tardis.xnb</Output>
+      <Time>2012-08-21T21:46:14.0449218-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tw_gear.png</Source>
+      <Name>sprites\tw_gear</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\tw_gear.xnb</Output>
+      <Time>2012-08-21T21:46:14.0527343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tw_fluxcapacitor.png</Source>
+      <Name>sprites\tw_fluxcapacitor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\tw_fluxcapacitor.xnb</Output>
+      <Time>2012-08-21T21:46:13.977539-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\switch_off.png</Source>
+      <Name>sprites\switch_off</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\switch_off.xnb</Output>
+      <Time>2012-08-21T21:46:14.071289-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\switch_on.png</Source>
+      <Name>sprites\switch_on</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\switch_on.xnb</Output>
+      <Time>2012-08-21T21:46:14.09375-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\tw_raysphere.png</Source>
+      <Name>sprites\tw_raysphere</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\tw_raysphere.xnb</Output>
+      <Time>2012-08-21T21:46:14.1777343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>silver asterism.png</Source>
+      <Name>silver asterism</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\silver asterism.xnb</Output>
+      <Time>2012-08-21T21:46:14.6894531-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\door.png</Source>
+      <Name>sprites\door</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\door.xnb</Output>
+      <Time>2012-08-21T21:46:14.2509765-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gate_1.png</Source>
+      <Name>sprites\gate_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\gate_1.xnb</Output>
+      <Time>2012-08-21T21:46:14.1113281-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gate_2.png</Source>
+      <Name>sprites\gate_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\gate_2.xnb</Output>
+      <Time>2012-08-21T21:46:14.1220703-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gate_3.png</Source>
+      <Name>sprites\gate_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\gate_3.xnb</Output>
+      <Time>2012-08-21T21:46:14.1328125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\gate_open.png</Source>
+      <Name>sprites\gate_open</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\gate_open.xnb</Output>
+      <Time>2012-08-21T21:46:14.2451171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\key.png</Source>
+      <Name>sprites\key</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\key.xnb</Output>
+      <Time>2012-08-21T21:46:14.203125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sword.png</Source>
+      <Name>sprites\sword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\sword.xnb</Output>
+      <Time>2012-08-21T21:46:14.0996093-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sword_D.png</Source>
+      <Name>sprites\sword_D</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\sword_D.xnb</Output>
+      <Time>2012-08-21T21:46:14.1279296-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sword_L.png</Source>
+      <Name>sprites\sword_L</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\sword_L.xnb</Output>
+      <Time>2012-08-21T21:46:14.1669921-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\sword_R.png</Source>
+      <Name>sprites\sword_R</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\sword_R.xnb</Output>
+      <Time>2012-08-21T21:46:14.1826171-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\monster_purple.png</Source>
+      <Name>sprites\monster_purple</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\monster_purple.xnb</Output>
+      <Time>2012-08-21T21:46:13.9707031-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sprites\monster_red.png</Source>
+      <Name>sprites\monster_red</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sprites\monster_red.xnb</Output>
+      <Time>2012-08-21T21:46:14.0166015-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\gun.jpg</Source>
+      <Name>backgrounds\gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\gun.xnb</Output>
+      <Time>2012-08-21T21:46:14.78125-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\idcard.png</Source>
+      <Name>backgrounds\idcard</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\idcard.xnb</Output>
+      <Time>2012-08-21T21:46:14.7871093-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\tw_gun.jpg</Source>
+      <Name>backgrounds\tw_gun</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\tw_gun.xnb</Output>
+      <Time>2012-08-21T21:46:14.71875-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\tw_lab.jpg</Source>
+      <Name>backgrounds\tw_lab</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\tw_lab.xnb</Output>
+      <Time>2012-08-21T21:46:14.7402343-07:00</Time>
+    </Item>
+    <Item>
+      <Source>backgrounds\tw_pocketwatch.jpg</Source>
+      <Name>backgrounds\tw_pocketwatch</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\backgrounds\tw_pocketwatch.xnb</Output>
+      <Time>2012-08-21T21:46:14.7333984-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\Arial.spritefont</Source>
+      <Name>fonts\Arial</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\fonts\Arial.xnb</Output>
+      <Time>2012-08-21T21:46:13.9121093-07:00</Time>
+    </Item>
+    <Item>
+      <Source>fonts\ArialTitle.spritefont</Source>
+      <Name>fonts\ArialTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\fonts\ArialTitle.xnb</Output>
+      <Time>2012-08-21T21:46:13.9189453-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\18973__bebeto__loop003-jungle.wav</Source>
+      <Name>sounds\18973__bebeto__loop003-jungle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\18973__bebeto__loop003-jungle.xnb</Output>
+      <Time>2012-08-21T21:46:14.665039-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\18977__bebeto__loop006-electronic.wav</Source>
+      <Name>sounds\18977__bebeto__loop006-electronic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\18977__bebeto__loop006-electronic.xnb</Output>
+      <Time>2012-08-21T21:46:14.5957031-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\18979__bebeto__loop008-acid.wav</Source>
+      <Name>sounds\18979__bebeto__loop008-acid</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\18979__bebeto__loop008-acid.xnb</Output>
+      <Time>2012-08-21T21:46:14.5732421-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\24046__bebeto__loop029.wav</Source>
+      <Name>sounds\24046__bebeto__loop029</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\24046__bebeto__loop029.xnb</Output>
+      <Time>2012-08-21T21:46:14.6210937-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\break-time.wav</Source>
+      <Name>sounds\break-time</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\break-time.xnb</Output>
+      <Time>2012-08-21T21:46:14.5800781-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\laser.wav</Source>
+      <Name>sounds\laser</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\laser.xnb</Output>
+      <Time>2012-08-21T21:46:14.6533203-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\switch_powerup.wav</Source>
+      <Name>sounds\switch_powerup</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\switch_powerup.xnb</Output>
+      <Time>2012-08-21T21:46:14.6289062-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\swoosh.wav</Source>
+      <Name>sounds\swoosh</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\swoosh.xnb</Output>
+      <Time>2012-08-21T21:46:14.6347656-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\unlock.wav</Source>
+      <Name>sounds\unlock</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\unlock.xnb</Output>
+      <Time>2012-08-21T21:46:14.6767578-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\unlock1.wav</Source>
+      <Name>sounds\unlock1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\unlock1.xnb</Output>
+      <Time>2012-08-21T21:46:14.6835937-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\oof.wav</Source>
+      <Name>sounds\oof</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\oof.xnb</Output>
+      <Time>2012-08-21T21:46:14.6474609-07:00</Time>
+    </Item>
+    <Item>
+      <Source>sounds\554__bebeto__ambient-loop.mp3</Source>
+      <Name>sounds\554__bebeto__ambient-loop</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\554__bebeto__ambient-loop.xnb</Output>
+      <Extra>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\sounds\554__bebeto__ambient-loop.wma</Extra>
+      <Time>2012-08-21T21:46:14.640625-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\BreakContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\BreakContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Jeremy\Documents\Silver Asterism\SVN\trunk\Break\Break\Break\Break\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-29T18:46:42.0960654-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

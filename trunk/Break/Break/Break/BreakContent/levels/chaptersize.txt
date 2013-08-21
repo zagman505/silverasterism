@@ -1,0 +1,125 @@
+^
+idcard
+150 200
+We'd been working for years.%%Our research was finally done. %% %%God... I never thought I'd actually be standing in front of it.
+1
+lab
+80 30
+It was a time machine, of course. Time travel never works right in the movies. %%Why'd we think we could do better? %% %%Don't bother asking me how it worked.%%I can't explain now, and I don't care to. %% 
+0
+pocketwatch
+550 150
+I keep reliving that moment %%in my head, walking through %%the lab for the first test - %%jumping one hour into %%the future.
+0
+$
+1	3	0	0
+^
+lab
+30 30
+Everything went wrong.%% %% %%I stepped out of the box and the world was broken. %% %%
+0
+lab
+30 30
+My colleagues were gone, the familiar hum of machinery was gone, and before my eyes, %%the time machine crunched and shattered. %%Streaks of blue seared my vision as I watched the culmination of twenty years of work %%splinter and fly apart through the lab.
+0
+lab
+60 100
+I tried to make my way through the laboratory... %%As it was coming apart, one of the box's parts flew past me into another room. %%Gotta make sure it didn't take out a support or anything...
+0
+$
+2	3	0	0
+^
+gun
+400 300
+A tool in my hand - the trusty Henry actuator. %%It was built to remotely activate circuits out %%of your reach.%% %%Apparently it's also good for bridging broken %%door connections.
+0
+pocketwatch
+500 230
+Oh, right...
+0
+tw_pocketwatch
+480 100
+It seems the fabric of time was %%broken. %% %%At any given moment, the present %%comes from the past and goes to %%the future. %% %%Well, that's how it should work.
+0
+tw_pocketwatch
+480 200
+That familiar function was gone.%% %%Instead, the present goes to %%the past, the past goes to the %%future, I don't even know.%% %% %%As I stood around, I found %%myself suddenly walking out of %%the time machine again.
+0
+tw_pocketwatch
+120 100
+The ghostly figure of my first %%experience walked out as well.%% %%Walking through yourself is strange. %% %% %%Apparently, since the cataclysm, %%time is linked back to itself. %%Every minute you exist, you jump back %%a minute.
+1
+pocketwatch
+500 60
+But when I touch the gear, now %%faintly glowing with the residue %%of the shattered universe...%% %%I don't jump. %%All of a sudden, it's fixed.
+0
+tw_pocketwatch
+500 200
+No, wait. It just took longer. %% %%But maybe by collecting the parts... %% %%I can fix this.
+0
+tw_lab
+150 200
+I hear roaring. What kind of things live in between dimensions?
+0
+$
+5	4	2	0
+^
+tw_pocketwatch
+100 100
+Ah, the flux capacitor. Figures %%that this would be heavily irradiated. %% %%No sign of my comrades, but this piece of %%tubing might serve well to ward off whatever's %%making those noises...
+1
+$
+3	5	1	1
+^
+tw_lab
+150 200
+Ray sphere. I always liked this thing. %%Kinda pretty. Nice light for reading by. %%Of course, it also grew a weird fungus that we couldn't identify... %% %%Kind of a bitch to clean.
+0
+idcard
+150 200
+I can't figure out if I've got a headache from %%finding my way through this hellish maze, %%or as some side-effect of the time radiation.
+1
+tw_gun
+400 300
+Those monsters... Horrible beings from another dimension? %%Unknown residents of the Earth's past or future? %%I hope they don't eat me.
+0
+tw_pocketwatch
+100 100
+Is... What? I haven't jumped.
+1
+pocketwatch
+500 150
+This is the longest I've gone...
+0
+pocketwatch
+500 150
+This is the longest I've gone... %%One minute...
+0
+pocketwatch
+500 150
+This is the longest I've gone... %%One minute...%%Two minutes...
+0
+tw_pocketwatch
+100 100
+I'm... %%This is...%%It's before the experiment! %%There's the box! I have to break it...
+$
+1	3	0	0
+^
+tw_lab
+60 100
+Shit.
+0
+tw_lab
+80 120
+No way to get out.
+0
+tw_lab
+60 140
+Stuck.
+0
+tw_idcard
+380 215
+Shit.
+1
+$
+1	1	0	0

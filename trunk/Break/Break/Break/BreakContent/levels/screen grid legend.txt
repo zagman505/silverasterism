@@ -1,0 +1,24 @@
+0- Empty
+1- Wall
+2- Player
+3- TARDIS
+4- Small enemy
+5- Large enemy
+6- Boss enemy
+7- Switch
+8- Key
+9- Timey-Wimey
+Z- Locked door
+
+Gates (open when required of switches are hit):
+A- 1 switch
+B- 2 switches
+C- 3 switches
+
+Emergency shutters (close when required number of switches are hit):
+a- 1 switch 
+b- 2 switches
+c- 3 switches
+
+Extras:
+G- Gun (one time use)
